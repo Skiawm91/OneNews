@@ -1,10 +1,11 @@
 @echo off
-echo NEWS
-echo SakuraOSv2§Y±N±À¥X¡ILaxª©¥»¤w¥X
+echo NEWS SakuraOSv4 ä»¥å¾Œæ”¹ç‚º OneOS !?
 echo.
-echo Kiawm91/³ø¾É
+echo Kiawm91/å ±å°Ž
 echo.
-echo ³Ìªñ¥ÑSakura¹Î¶¤»s§@ªºSakuraOS Taxª©±N±À¥X¡I
-echo V3¤]³Q½T©w»s§@¡I
-echo Å¥»¡¶}µo¹Î¶¤­n§¹¦¨1.98¶i¤J1.99¤F¡I
-echo ½Ð¦U¦ì·q½Ð´Á«Ý¡I
+echo æœ€è¿‘ï¼ŒSakura Incè¡¨ç¤º SakuraOSè‡ªV4å¾Œæ”¹ç‚ºOneOS
+echo V3ä¹Ÿè¢«ç¢ºå®šè£½ä½œï¼
+echo ä½†é€™æ¬¡V4èˆ‡V3ä¸€åŒç™¼å¸ƒ
+echo è«‹å„ä½æ•¬è«‹æœŸå¾…ï¼
+echo.
+echo Sakura Inc.
