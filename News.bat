@@ -1,15 +1,14 @@
 @echo off
-echo NEWS SakuraOSv3取消開發！被Sakura OneOS取代
-echo Kiawm91/報導
+echo OneOS發布，現在的開始畫面更現代?
+echo SKiawm91/報導
 echo.
-echo Sakura Inc. 最終公布了開發計畫
-echo SakuraOSv3被取消掉了！
-echo SakuraOS 是一款非常棒的系統對吧...
-echo 可惜啊！最終沒能看到 Rampabe架構
-echo 最近由Sakura團隊製作的OneOS 是什麼呢
+echo 根據最新版本的OneOS (3.00.391) 的DEV版
+echo 開始畫面從原本的偽磁磚變成按鈕磁磚(似)
+echo 希望這個系統不要又取消掉吧...
 echo.
-echo Sakura OneOS
-echo 最大功能就是支援更新！再也不用手動下載啦！
-echo  SakuraOS API 1.0 是一個什麼樣的API呢?
-echo SakuraOS v2可以無痛升級！！！
-echo 請各位敬請期待！
+echo SakuraOSv4 即將製作，居然是已經取消的Rampabe!?
+echo Guoy2674/報導 (已翻譯為繁體中文)
+echo 根據Sakura Inc.的消息，SakuraOSv4將只有Basic版
+echo 這個版本我預計不會有Update功能
+echo 我預計應該有可能與我洩漏出的V3一致
+echo by Guoy2674 (Fake DEV)
